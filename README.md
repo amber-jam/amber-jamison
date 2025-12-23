@@ -1,9 +1,5 @@
-# amber-jamison
 My personal repository with listing of my projects and personal bio.
-
 # Amber Jamison
-
-<img src="YOUR_HEADSHOT_IMAGE_URL" alt="Amber Jamison" width="180"/>
 
 ## About Me
 I am a Computer Science student with a concentration in Artificial Intelligence at Alabama A&M University, graduating in May 2026. I am also a Division I student-athlete, which has helped me develop strong time management skills, discipline, and the ability to learn and perform in high-pressure environments.
@@ -13,13 +9,8 @@ I am building my skills in data analytics, machine learning, and software develo
 My interests include:
 - Data Analytics and Visualization  
 - Machine Learning and Applied AI  
-- Software Development  
-- Data-driven problem solving and decision support
-My interests include:
-- Machine Learning and Applied AI  
-- Data Science and Analytics  
 - Software Engineering  
-- AI-driven decision support and automation  
+- Data-driven problem solving and decision support
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/amber-jamison1/
